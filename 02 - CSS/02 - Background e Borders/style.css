@@ -1,0 +1,14 @@
+li{
+    color: green;
+}
+h1{
+    color: purple;
+    font-size: 50px;
+    background-color: grey;
+    border: 2px solid yellow;
+}
+body{
+    background-image: url('http://am570.com.br/images/noticias/4662/4662.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
