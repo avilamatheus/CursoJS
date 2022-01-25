@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+
+p{
+    font-family: 'Dongle', sans-serif;
+    font-size: 40px;
+    line-height: 1;
+}
+h1{
+    font-size: 60px;
+    font-family: 'Dongle', sans-serif;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
