@@ -1,23 +1,32 @@
 a:link {
-    color: black;
+    color: #4a4a4a;
     background-color: transparent;
     text-decoration: none;
   }
   
   a:visited {
-    color: black;
+    color: #4a4a4a;
     background-color: transparent;
     text-decoration: none;
   }
   
   a:hover {
-    color: black;
+    color: #4a4a4a;
     background-color: transparent;
     text-decoration: underline;
   }
   
   a:active {
-    color: black;
+    color: #4a4a4a;
     background-color: transparent;
     text-decoration: underline;
+  }
+
+  #logos{
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
   }
