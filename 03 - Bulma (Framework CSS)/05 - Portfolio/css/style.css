@@ -30,3 +30,9 @@ a:link {
     right: 0;
     bottom: 0;
   }
+
+  #record
+  {
+    width: auto;
+    max-height: 20%;
+  }
